@@ -24,13 +24,10 @@ bootstrap_project_2/
 ├── js/
 │   └── bootstrap.bundle.min.js
 │
-├── SASS/
-│   └── (SASS files here)
-│
 └── index.html
 ```
 
-The main entry point of the website is `index.html`. The `css` folder contains the stylesheets for the website, `img` holds all the images used, `js` contains JavaScript files, and `SASS` includes SASS files for advanced styling.
+The main entry point of the website is `index.html`. The `css` folder contains the stylesheets for the website, `img` holds all the images used, `js` contains JavaScript files.
 
 ## Installation
 
